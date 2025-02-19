@@ -1,4 +1,4 @@
-# 🦁 멋쟁이사자처럼 13기 JavaScript_Basic 세션 과제입니다🦁
+# 🦁 멋쟁이사자처럼 13기 JS_Basic 세션 과제입니다🦁
 JavaScript basic세션 과제 **임시repository**입니다!
 <br/>
 <br/>
