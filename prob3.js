@@ -8,7 +8,12 @@ let likelion = [
 // 1번 문제 코드작성
 
 // 2번 문제 코드작성
+let result2 = [];
+
+console.log(result2);
 
 // 3번 문제 코드작성
+let targetName = "전수빈";
+let result3 = null;
 
-// 4번 문제 코드작성
+console.log(result3);
