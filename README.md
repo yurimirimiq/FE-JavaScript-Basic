@@ -9,8 +9,8 @@ JavaScript basic세션 과제 **임시repository**입니다!
 ☘️ **문제**
 
 
-함수의 매개변수로 `num`과 `total`이 주어집니다. 연속된 수 num개를 더한 값이 total이 될 때, 이 정수 배열을 오름차순으로 담아 return하도록 solution함수를 완성해보세요!
-예를들어 `num`이 3이고 `total`이 12인 경우 배열은 [3,4,5]입니다. <br/><br/>
+함수의 매개변수로 `num`과 `total`이 주어집니다. 연속된 수 `num`개를 더한 값이 `total`이 될 때, 이 정수 배열을 **오름차순으로** 담아 return하도록 solution함수를 완성해보세요!
+<br/>
 
 <br/>
 
